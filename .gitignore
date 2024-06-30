@@ -1,0 +1,4 @@
+.DS_Store
+bff_hack/__pycache__
+bff_hack/vosk-model-small-en-in-0.4
+bff_hack/yolov5s.pt
